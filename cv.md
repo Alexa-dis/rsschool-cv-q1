@@ -1,9 +1,13 @@
 # Safonova Alexandra
-+375291834703
++375291834703 <br/>
 alexa-09@bk.ru
-## Objective
-Applying for a position
 ## Summary
+I am a **purposeful, stress-resistant, responsible** person. I work well in a team, scrupulously and with concentration I complete all tasks. I love a mathematical and logical approach to things. <br/>
+I am looking forward to my work in the company to improve existing projects and create interesting new ones. <br/>
+I will be glad to your suggestions!
 ## Skils
+**English Proficiency:** C1 (Advanced)
+
+**Programming Languages:** Html basics, CSS basics, XML basics, Json basics
 ## Education
 ## Work experience
