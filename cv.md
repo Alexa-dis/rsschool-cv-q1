@@ -10,4 +10,7 @@ I will be glad to your suggestions!
 
 **Programming Languages:** Html basics, CSS basics, XML basics, Json basics
 ## Education
+2014-2018 **Belarusian State Universiry.Faculty of International Relations** <br/> Customs affairs (+2 foreign languages)  
+2019 **Educational center for Programing and High Tech (IT-Academy)** <br/> UI/UX design 
+
 ## Work experience
