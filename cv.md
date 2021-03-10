@@ -6,11 +6,17 @@ I am a **purposeful, stress-resistant, responsible** person. I work well in a te
 I am looking forward to my work in the company to improve existing projects and create interesting new ones. <br/>
 I will be glad to your suggestions!
 ## Skils
-**English Proficiency:** C1 (Advanced)
+**English Proficiency:** C1 (Advanced) <br/>
+**German Proficiency:** B1 (Intermediate)
 
 **Programming Languages:** Html basics, CSS basics, XML basics, Json basics
 ## Education
-2014-2018 **Belarusian State Universiry.Faculty of International Relations** <br/> Customs affairs (+2 foreign languages)  
-2019 **Educational center for Programing and High Tech (IT-Academy)** <br/> UI/UX design 
+*2014-2018* **Belarusian State Universiry.Faculty of International Relations** <br/> Customs affairs (+2 foreign languages)  
 
+*2019* **Educational center for Programing and High Tech (IT-Academy)** <br/> UI/UX design 
+
+*2021* **HTML Academy** 
 ## Work experience
+*2018-2020* Customs clearance specialist
+
+*2020- cur.* Marketing Designer
